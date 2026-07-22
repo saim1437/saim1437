@@ -8,15 +8,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=640&height=44&lines=Aspiring%20ML%20Engineer%20%26%20BSAI%20Student;Building%20projects%20with%20Python%2C%20ML%20%26%20LLMs" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+###  About Me
 
 A student passionate about AI/ML. I build things with Python, explore LLMs, and learn by shipping small, real projects.
 
-🔭 &nbsp;I'm currently working on **Machine Learning (ML), Large Language Models (LLM).**  
-🌱 &nbsp;I'm currently learning **LLM engineering , building apps with local and API-based LLMs**  
-👯 &nbsp;I'm looking to collaborate on **AI/ML portfolio projects and open-source ML tools**  
-💬 &nbsp;Ask me about **Python, machine learning, LLM, C++**  
-😄 &nbsp;Pronouns: **he/him**
+ &nbsp;I'm currently working on **Machine Learning (ML), Large Language Models (LLM).**  
+ &nbsp;I'm currently learning **LLM engineering , building apps with local and API-based LLMs**  
+ &nbsp;I'm looking to collaborate on **AI/ML portfolio projects and open-source ML tools**  
+ &nbsp;Ask me about **Python, machine learning, LLM, C++**  
+ &nbsp;Pronouns: **he/him**
 
 ### 🛠️ Tech Stack
 
@@ -52,7 +52,7 @@ A student passionate about AI/ML. I build things with Python, explore LLMs, and 
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saim1437&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-### 💭 Dev Quote
+###  Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
