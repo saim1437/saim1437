@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/saim1437">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=44&height=90&width=570&text=Saim%20%7C%20AI%2FML%2FLLM" alt="Saim | AI/ML/LLM" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=570&text=Hello!%20I'm%20Saim" alt="Hello! I&#39;m Saim" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=640&height=44&lines=AI+%2F+ML+%2F+LLM+Enthusiast" alt="Typing headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=640&height=44&lines=Aspiring%20ML%20Engineer%20%26%20BSAI%20Student;Building%20projects%20with%20Python%2C%20ML%20%26%20LLMs;Open%20to%20AI%2FML%20Internships" alt="Typing headlines" />
 </p>
 
 ### About Me
