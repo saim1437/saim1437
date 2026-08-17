@@ -9,10 +9,9 @@
 </p>
 
 ### About Me
-A student passionate about AI/ML/LLMs. I build things with Python, explore LLMs, and learn by shipping small, real projects.
+A student passionate about AI. I build things with Python, explore LLMs, work on Machine Learning ML and learn by shipping small, real projects.
 
 &nbsp;I'm currently working on **Machine Learning (ML), Large Language Models (LLM).**
-&nbsp;I'm currently learning **LLM Engineering, building projects with local and API-based LLMs**
 &nbsp;I'm looking to collaborate on **AI/ML portfolio projects and open-source ML tools**
 &nbsp;Ask me about **Python, machine learning, LLM, C++**
 
